@@ -1,8 +1,7 @@
 # Scrip.NYC
 This is the Scrip.NYC public repository.
 
-Created September 29th, 2024
-Last updated October 28th, 2024
+Created September 29th, 2024  |  Last updated October 28th, 2024
 
 [PDF Download of Scrip.NYC paper](https://drive.google.com/file/d/1JPrGmgCF4k3CT5L3uxAb5Sl0jGJMlmMO/view?usp=sharing)
 
