@@ -4,8 +4,9 @@ ScripNYC is a nonpartisan open-source project managed by Blockchainsure Labs.
 Created September 29th, 2024  |  Last updated November 19th, 2024
 
 [PDF Download of ScripNYC paper](https://drive.google.com/file/d/1co6wfLnVhDHaoYxBQv1HClU-tLyUD2Yh/view?usp=sharing)
-
+<summary>
 ## Thoughts on the 2024 US Elections
+</summary>
 <i>Humanitarian Funding Needs Transcend Party Politics</i><br>
 ScripNYC unlocks vast pools of latent capital which may be applied to a diverse range of unmet needs. It is our hope that ScripNYC grants all stakeholders sufficient cognitive, political, and operational leeway so they may negotiate "have your cake and eat it too" compromises that respect the wishes of New Yorkers while protecting all constitutional and human rights.
 
