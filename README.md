@@ -5,7 +5,7 @@ Created September 29th, 2024  |  Last updated November 27th, 2024
 
 [PDF Download of ScripNYC paper](https://drive.google.com/file/d/1co6wfLnVhDHaoYxBQv1HClU-tLyUD2Yh/view?usp=sharing)
 
-## Note: In 2025, we will transition all materials to [ScripNYC.org](https://scripnyc.org)
+### Note: In 2025, we will transition all materials to [ScripNYC.org](https://scripnyc.org)
 
 ### Thoughts on the 2024 US Elections
 
