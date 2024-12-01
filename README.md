@@ -9,8 +9,8 @@ Created September 29th, 2024  |  Last updated December 1st, 2024
 
 ### Thoughts on the 2024 US Elections
 
-<i>Humanitarian Funding Needs Transcend Party Politics</i><br>
-ScripNYC unlocks vast pools of latent capital which may be applied to a diverse range of unmet needs. It is our hope that ScripNYC grants all stakeholders sufficient cognitive, political, and operational leeway so they may negotiate "have your cake and eat it too" compromises that respect the wishes of New Yorkers while protecting all constitutional and human rights.
+<i>Humanitarian Funding Transcends Party Politics</i><br>
+ScripNYC unlocks vast pools of latent capital which may be applied to a diverse range of unmet needs. It is our hope that ScripNYC grants all stakeholders sufficient political, operational, and cognitive leeway so they may negotiate "have your cake and eat it too" compromises that respect the wishes of New Yorkers while protecting all constitutional and human rights.
 
 >"Would you agree to let hardworking, productive migrants stay — if it could be done at no extra cost to you?"
 
