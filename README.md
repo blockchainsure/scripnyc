@@ -1,9 +1,9 @@
 # ScripNYC
 ScripNYC is a nonpartisan open-source project.
 
-Created September 29th, 2024  |  Last updated December 1st, 2024
+Created September 29th, 2024  |  Last updated January 10th, 2025
 
-[PDF Download of ScripNYC paper](https://drive.google.com/file/d/1cTTMzii-MMdGYGlQxCNGiYTNsLqRYLs1/view?usp=sharing)
+[PDF Download of ScripNYC paper](http://ssrn.com/abstract=5057370)
 
 ### Note: In 2025, we will transition all materials to [ScripNYC.org](https://scripnyc.org)
 
